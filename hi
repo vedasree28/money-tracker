@@ -1,0 +1,11 @@
+client/src/
+├── components/
+│   ├── Login.js
+│   ├── Register.js
+│   ├── TransactionForm.js
+│   ├── TransactionList.js
+│   ├── Balance.js
+│   └── Charts.js
+├── App.js
+├── api.js
+└── index.js
