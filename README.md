@@ -3,6 +3,9 @@
 A full-stack web application for managing personal income and expenses.
 The system allows authenticated users to record transactions, track balances, and manage financial activity in a simple dashboard interface.
 
+<img width="405" height="551" alt="image" src="https://github.com/user-attachments/assets/cd32c148-f659-4836-bcd7-9db3960c9f22" />
+<img width="388" height="611" alt="image" src="https://github.com/user-attachments/assets/effb9bd4-3ebe-432f-aca9-3422b6520093" />
+
 ## Overview
 
 Money Tracker enables users to securely manage financial records by creating and maintaining a list of income and expense transactions. Each user's data is isolated through authentication, ensuring that transactions are accessible only to the respective account.
